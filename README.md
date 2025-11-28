@@ -57,5 +57,6 @@ Veri Kaydı: Skorlar Path.GetTempPath() dizininde sayac.txt dosyasında tutulur.
 Arayüz: Windows Forms (WinForms).
 
 📸 Ekran Görüntüsü
-![Uygulama Ana Ekran Görüntüsü](images/ana-ekran.png)
+![Uygulama Ana Ekran Görüntüsü](images/Ana-Ekran.png)
+
 *Uygulamanın ana arayüzü.*
